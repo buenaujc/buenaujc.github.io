@@ -1,0 +1,14 @@
+body {
+  background: white;
+}
+p {
+  color: maroon;
+  text-align: center;
+  text-decoration: underline;
+  font-family: fantasy;
+  font-size: 20px;
+}
+
+h1 {
+  font-weight: bold;
+}
