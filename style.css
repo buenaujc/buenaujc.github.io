@@ -12,3 +12,7 @@ p {
 h1 {
   font-weight: bold;
 }
+
+nav {
+  border-size:5px;
+}
